@@ -1,0 +1,20 @@
+[
+    {
+        "title"     : "MedleySolver: Online SMT Algorithm Selection",
+        "conference": "SAT '21",
+        "authors"   : "N. Pimpalkhare, F. Mora, E. Polgreen and S. Seshia",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "full"
+    },
+    {
+        "title"     : "Dynamic Algorithm Selection for SMT",
+        "conference": "ASE '20",
+        "authors"   : "N. Pimpalkhare",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "short"
+    }
+]

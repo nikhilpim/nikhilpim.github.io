@@ -1,0 +1,9 @@
+[
+    {
+        "headshot": "images/nikhil.jpeg",
+        "blurb"   : "<p>Hello! My name is Nikhil Pimpalkhare. I am a current Master's student at Princeton University studying computer science. I previously graduated from the University of California, Berkeley with a B.S. in Electrical Engineering and Computer Science. </p><p>My current primary academic interests lie in probability theory, formal methods, and programming languages. Outside of computer science, I am interested in Model United Nations, CS education, and chess.</p>",
+        "cv"      : "images/nikhil_resume.pdf",
+        "email"   : "nikhil.pimpalkhare at princeton.edu",
+        "scholar" : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=A9P0RK4AAAAJ"
+    }
+]
