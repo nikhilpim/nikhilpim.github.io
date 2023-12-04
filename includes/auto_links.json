@@ -1,6 +1,6 @@
 [
     {
-        "University of California, Berkeley": "https://eecs.berkeley.edu/",
+        "EECS": "https://eecs.berkeley.edu/",
 
         "Sanjit A. Seshia": "https://people.eecs.berkeley.edu/~sseshia/",
         "S. Seshia": "https://people.eecs.berkeley.edu/~sseshia/",
@@ -8,6 +8,7 @@
         "F. Mora": "https://federicoaureliano.github.io/",
         "Federico Mora": "https://federicoaureliano.github.io/",
         "N. Pimpalkhare": "http://nikhilpim.github.io/",
+        "Zachary Kincaid": "https://www.cs.princeton.edu/~zkincaid/",
         
         "SMT-COMP 2020" : "https://smt-comp.github.io/2020/",
 
@@ -19,10 +20,6 @@
         "VSTTE '20" : "https://sri-csl.github.io/VSTTE20/",
         "CAV '21" : "http://i-cav.org/2021/",
         "SAT '21" : "https://www.iiia.csic.es/sat2021/",
-
-        "Model United Nations" : "https://bmun.org",
-        "CS education" : "https://cs61c.org/sp21",
-        "chess" : "https://www.chess.com/member/mykwazowski",
 
         "Dynamic Algorithm Selection for SMT" : "https://dl.acm.org/doi/pdf/10.1145/3324884.3418922",
         "MedleySolver: Online SMT Algorithm Selection" : "https://people.eecs.berkeley.edu/~fmora/sat21.pdf"
