@@ -20,6 +20,8 @@
         "VSTTE '20" : "https://sri-csl.github.io/VSTTE20/",
         "CAV '21" : "http://i-cav.org/2021/",
         "SAT '21" : "https://www.iiia.csic.es/sat2021/",
+        "RP '24" : "https://easychair.org/smart-program/RP24/",
+        "OOPSLA '24" : "https://2024.splashcon.org/track/splash-2024-oopsla",
 
         "Dynamic Algorithm Selection for SMT" : "https://dl.acm.org/doi/pdf/10.1145/3324884.3418922",
         "MedleySolver: Online SMT Algorithm Selection" : "https://people.eecs.berkeley.edu/~fmora/sat21.pdf"
