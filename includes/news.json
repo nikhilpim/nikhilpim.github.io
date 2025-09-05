@@ -1,5 +1,9 @@
 [
     {
+        "date": "09/2025",
+        "text": "Our paper on extending Rust's memory safety guarantees to linked cryptographic assembly snippets was accepted at PLOS '25"
+    },
+    {
         "date": "08/2024",
         "text": "Papers on using Vector Addition Systems for program summarization to appear at OOPSLA '24 and RP '24"
     },

@@ -1,5 +1,23 @@
 [
     {
+        "title"     : "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials",
+        "conference": "OOPSLA '24",
+        "authors"   : "N. Pimpalkhare and Z. Kincaid",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "full"
+    },
+    {
+        "title"     : "Semi-linear VASR for Over-Approximate Semi-linear Transition System Reachability",
+        "conference": "RP '24",
+        "authors"   : "N. Pimpalkhare and Z. Kincaid",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "full"
+    },
+    {
         "title"     : "MedleySolver: Online SMT Algorithm Selection",
         "conference": "SAT '21",
         "authors"   : "N. Pimpalkhare, F. Mora, E. Polgreen and S. Seshia",

@@ -9,6 +9,7 @@
         "Federico Mora": "https://federicoaureliano.github.io/",
         "N. Pimpalkhare": "http://nikhilpim.github.io/",
         "Zachary Kincaid": "https://www.cs.princeton.edu/~zkincaid/",
+        "Z. Kincaid": "https://www.cs.princeton.edu/~zkincaid/",
         
         "SMT-COMP 2020" : "https://smt-comp.github.io/2020/",
 
@@ -22,7 +23,10 @@
         "SAT '21" : "https://www.iiia.csic.es/sat2021/",
         "RP '24" : "https://easychair.org/smart-program/RP24/",
         "OOPSLA '24" : "https://2024.splashcon.org/track/splash-2024-oopsla",
+        "PLOS '25" : "https://www.plos-workshop.org/2025/",
 
+        "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials" : "https://dl.acm.org/doi/pdf/10.1145/3689777",
+        "Semi-linear VASR for Over-Approximate Semi-linear Transition System Reachability" : "https://nikhilpim.github.io/images/svasr.pdf",
         "Dynamic Algorithm Selection for SMT" : "https://dl.acm.org/doi/pdf/10.1145/3324884.3418922",
         "MedleySolver: Online SMT Algorithm Selection" : "https://people.eecs.berkeley.edu/~fmora/sat21.pdf"
     }
