@@ -27,6 +27,15 @@
         "tags"      : "full"
     },
     {
+        "title"     : "From Rust Till Run: Extending Memory Safety From Rust to Cryptographic Assembly",
+        "conference": "PLOS '25",
+        "authors"   : "S. Caspin, N. Pimpalkhare, and A. Levy",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "short"
+    },
+    {
         "title"     : "Dynamic Algorithm Selection for SMT",
         "conference": "ASE '20",
         "authors"   : "N. Pimpalkhare",
