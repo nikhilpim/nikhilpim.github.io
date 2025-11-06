@@ -1,4 +1,8 @@
 [
+        {
+        "date": "11/2025",
+        "text": "Our paper on the almost-commuting transition system framework was accepted at POPL '26!"
+    },
     {
         "date": "09/2025",
         "text": "Our paper on extending Rust's memory safety guarantees to linked cryptographic assembly snippets was accepted at PLOS '25 (as Best Paper!)"
