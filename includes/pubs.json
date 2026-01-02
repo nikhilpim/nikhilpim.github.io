@@ -1,5 +1,14 @@
 [
     {
+        "title"     : "Context-Free-Language Reachability for Almost-Commuting Transition Systems",
+        "conference": "POPL '26",
+        "authors"   : "N. Pimpalkhare, Z. Kincaid, and T. Reps",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "full"
+    },
+    {
         "title"     : "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials",
         "conference": "OOPSLA '24",
         "authors"   : "N. Pimpalkhare and Z. Kincaid",

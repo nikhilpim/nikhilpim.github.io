@@ -12,6 +12,7 @@
         "Z. Kincaid": "https://www.cs.princeton.edu/~zkincaid/",
         "S. Caspin": "https://www.cs.princeton.edu/~sc4479/",
         "A. Levy": "https://www.amitlevy.com/",
+        "T. Reps": "https://pages.cs.wisc.edu/~reps/",
         
         "SMT-COMP 2020" : "https://smt-comp.github.io/2020/",
 
@@ -28,6 +29,7 @@
         "PLOS '25" : "https://www.plos-workshop.org/2025/",
         "POPL '26" : "https://conf.researchr.org/home/POPL-2026",
 
+        "Context-Free-Language Reachability for Almost-Commuting Transition Systems" : "https://nikhilpim.github.io/images/popl26.pdf",
         "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials" : "https://dl.acm.org/doi/pdf/10.1145/3689777",
         "Semi-linear VASR for Over-Approximate Semi-linear Transition System Reachability" : "https://nikhilpim.github.io/images/svasr.pdf",
         "Dynamic Algorithm Selection for SMT" : "https://dl.acm.org/doi/pdf/10.1145/3324884.3418922",
