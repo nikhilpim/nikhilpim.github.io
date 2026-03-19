@@ -62,8 +62,8 @@ def build_pubs(pubs, kind):
             item += '<a href=\"' + p["link"] + '\">' + p["title"] + '</a> ' if p["link"] else p["title"] + " "
             item += '<br>' + p["authors"]
             item += '<br><small>(' if p["code"] or p["slides"] else ""
-            item += '<a href ="' + p["code"] + '">Supplemental Material</a>' if p["code"] else ""
-            item += ', <a href="' + p["slides"] + '">Presentation</a>' if p["slides"] else ""
+            item += '<a href ="' + p["code"] + '">Supplemental Material</a>, ' if p["code"] else ""
+            item += '<a href="' + p["slides"] + '">Talk</a>' if p["slides"] else ""
             item += ')</small>' if p["code"] or p["slides"] else ""
             item += '</div>'
             item += '</div>\n            '
