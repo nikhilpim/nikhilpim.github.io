@@ -52,5 +52,14 @@
         "code"      : "",
         "slides"    : "",
         "tags"      : "short"
+    },
+    {
+        "title"     : "Predictable Inter-Procedural Program Analysis via Almost-Commuting Transition Systems",
+        "conference": "",
+        "authors"   : "N. Pimpalkhare",
+        "link"      : "",
+        "code"      : "",
+        "slides"    : "",
+        "tags"      : "thesis"
     }
 ]

@@ -69,7 +69,12 @@ def build_pubs(pubs, kind):
             item += '</div>\n            '
             pubs_list += item
 
-    title = "Conference Papers" if kind == "full" else "Workshop & Short Papers"
+    if kind == "full":
+        title = "Conference Papers"
+    elif kind == "short":
+        title = "Workshop & Short Papers"
+    else:
+        title = "Theses"
 
     pubs_html = """
     <div class="section">
@@ -119,10 +124,10 @@ def build_index(profile_json, news_json, pubs_json, links):
         %s
         %s
         %s
-
+        %s
         <p align=right style=\"font-size:14px\"> Site template courtesy of Federico Mora </p>
     </body>
-    """ % (build_profile(profile_json), build_news(news_json, 5), build_pubs(pubs_json, "full"), build_pubs(pubs_json, "short"))
+    """ % (build_profile(profile_json), build_news(news_json, 5), build_pubs(pubs_json, "full"), build_pubs(pubs_json, "short"), build_pubs(pubs_json, "thesis"))
 
     index_html = """
     <!DOCTYPE html>

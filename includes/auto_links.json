@@ -1,6 +1,7 @@
 [
     {
         "EECS": "https://eecs.berkeley.edu/",
+        "Basis": "https://basis.ai/",
 
         "Sanjit A. Seshia": "https://people.eecs.berkeley.edu/~sseshia/",
         "S. Seshia": "https://people.eecs.berkeley.edu/~sseshia/",
@@ -30,6 +31,7 @@
         "POPL '26" : "https://conf.researchr.org/home/POPL-2026",
 
         "Context-Free-Language Reachability for Almost-Commuting Transition Systems" : "https://nikhilpim.github.io/images/popl26.pdf",
+        "Predictable Inter-Procedural Program Analysis via Almost-Commuting Transition Systems" : "https://nikhilpim.github.io/images/thesis.pdf",
         "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials" : "https://dl.acm.org/doi/pdf/10.1145/3689777",
         "Semi-linear VASR for Over-Approximate Semi-linear Transition System Reachability" : "https://nikhilpim.github.io/images/svasr.pdf",
         "Dynamic Algorithm Selection for SMT" : "https://dl.acm.org/doi/pdf/10.1145/3324884.3418922",

@@ -1,7 +1,7 @@
 [
     {
         "headshot": "images/nikhil.jpeg",
-        "blurb"   : "<p>Hey! I'm Nikhil Pimpalkhare. I am currently pursuiting my Ph.D. in computer science at Princeton University, where I am advised by Zachary Kincaid. I previously graduated from U.C. Berkeley with a B.S. in EECS. </p><p>I am currently interested in program analysis and formal methods. Outside of computer science, I enjoy running, playing the piano, and chess.</p>",
+        "blurb"   : "<p>Hey! I'm Nikhil Pimpalkhare. I am currently a research scientist at Basis. I previously completed my Ph.D. at Princeton University advised by Zachary Kincaid and graduated from U.C. Berkeley with a B.S. in EECS. </p><p>I am currently interested in program analysis and automated reasoning, and how they may impact AI. Outside of computer science, I enjoy running, playing the piano, and chess.</p>",
         "cv"      : "images/nikhil_resume.pdf",
         "email"   : "nikhil.pimpalkhare at princeton.edu",
         "scholar" : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=A9P0RK4AAAAJ"
